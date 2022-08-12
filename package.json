@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@fxts/core": "^0.9.0",
     "typescript": "^4.7.4"
   },
   "devDependencies": {
